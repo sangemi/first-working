@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>겸</title>
+<title></title>
 <style>
 
 
@@ -9,7 +9,7 @@
 
 
 <body>
-	git..
+
 
 </body>
 
