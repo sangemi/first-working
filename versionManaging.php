@@ -12,7 +12,7 @@
 	<ul>
 		<li>깃이란??</li>
 		<li>버전이란??</li>
-	
+	 
 	</ul>
 	<canvas>
 		hellow
