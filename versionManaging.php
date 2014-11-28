@@ -9,7 +9,10 @@
 
 
 <body>
-
+	<canvas>
+	hellow
+	
+	</canvas>
 
 </body>
 
